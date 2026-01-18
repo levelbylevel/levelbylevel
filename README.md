@@ -2,12 +2,34 @@
 <!--       CYBER-VIBE       -->
 <!-- ======================= -->
 
+<!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=CYBER-VIBE&fontSize=60&fontAlignY=40&animation=fadeIn&color=0:111827,100:1f2937" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=CYBER-VIBE&fontSize=60&fontAlignY=40&animation=fadeIn&color=0:3B82F6,100:1e40af&textColor=FFFFFF" />
+</p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=22&color=FFFFFF&width=700&lines=Hey+there,+I'm+Avi!;Level-by-Level+coder+and+hacker;I+live+for+code,+tech+and+AI;Welcome+to+my+digital+realm" />
+</p>
+
+---
+
+## 🚀 Boot Sequence
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=22&color=38BDF8&width=700&lines=[SYSTEM]+Booting...;[SYSTEM]+Loading Modules...;[SYSTEM]+Initializing AI Core...;[SYSTEM]+Decrypting Profile...;[SYSTEM]+Welcome+Avi+Level-by-Level!" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=22&color=38BDF8&width=700&lines=Hey+there,+I'm+Avi!;Level-by-Level+coder+and+hacker;I+live+for+code,+tech+and+AI;Welcome+to+my+digital+realm" />
+  <img src="https://readme-streak-stats.herokuapp.com/?user=cyber-vibe&theme=dark&hide_border=true&ring=38BDF8&fire=6366F1&currStreakLabel=38BDF8" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/cyber-vibe/cyber-vibe/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&width=700&text=Modules+Online&fontSize=22&color=0:111827,100:1f2937" />
 </p>
 
 ---
