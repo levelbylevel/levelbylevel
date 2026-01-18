@@ -1,131 +1,27 @@
-<!-- ======================= -->
-<!--       CYBER-VIBE       -->
-<!-- ======================= -->
+# 💫 About Me:
+I spend my days and nights exploring the spaces where code meets curiosity.  <br>Breaking things isn’t just fun — it’s how I learn, how I grow, and how I discover what’s possible.  <br><br>💻 By day, I build stuff: clean, clever, functional code that makes life a little easier.  <br>🕶 By night, I dive into systems, puzzles, and problems that most people shy away from — just to see how they tick.  <br><br>I like keeping things simple, minimal, and elegant. But behind that simplicity, there’s always something brewing — a tweak, a hack, or an experiment waiting to happen.  <br><br>Some things I care about:  <br>- Writing code that is smart, efficient, and sometimes a little mischievous.  <br>- Learning new tech stacks, exploring security concepts, and staying curious.  <br>- Sharing knowledge, collaborating, and leaving the digital world a bit better than I found it.  <br><br>Outside the terminal, I’m fueled by caffeine ☕, curiosity 🧠, and late-night playlists 🌌.  <br><br>If you see something interesting in my repos, feel free to reach out, fork, or break it — I promise it’s all part of the fun.  <br><br>🛠 Build. Break. Learn. Repeat.
 
-<!-- TOP BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=CYBER-VIBE&fontSize=60&fontAlignY=40&animation=fadeIn&color=0:3B82F6,100:1e40af&textColor=FFFFFF" />
-</p>
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=22&color=FFFFFF&width=700&lines=Hey+there,+I'm+Avi!;Level-by-Level+coder+and+hacker;I+live+for+code,+tech+and+AI;Welcome+to+my+digital+realm" />
-</p>
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avimaz.ca@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=levelbylevel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=levelbylevel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=levelbylevel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🚀 Boot Sequence
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=levelbylevel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=22&color=38BDF8&width=700&lines=[SYSTEM]+Booting...;[SYSTEM]+Loading Modules...;[SYSTEM]+Initializing AI Core...;[SYSTEM]+Decrypting Profile...;[SYSTEM]+Welcome+Avi+Level-by-Level!" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-  <img src="https://readme-streak-stats.herokuapp.com/?user=cyber-vibe&theme=dark&hide_border=true&ring=38BDF8&fire=6366F1&currStreakLabel=38BDF8" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/cyber-vibe/cyber-vibe/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&width=700&text=Modules+Online&fontSize=22&color=0:111827,100:1f2937" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=levelbylevel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=levelbylevel&icon=9&color=12)](https://visitcount.itsvg.in)
 
-## 🧠 About Me: Avi Level-by-Level
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shiny&height=150&section=header&text=Full-Stack+Wizard&color=0:111827,100:1f2937&fontSize=24" />
-</p>
-
-Hey! I'm **Avi**, your **cyber explorer**, **full-stack wizard**, and **digital creator**.  
-
-- 🌌 Level-by-level coder: HTML/CSS → Python/C/C++ → Node.js/React → AI & automation  
-- 💻 Full-stack dev & hacker vibes  
-- ⚡ Cyber aesthetic enthusiast: terminals, neon dashboards, glowing code  
-- 🛠 Tools: Git, VSCode, Arduino, Docker, Linux  
-- 🎮 GitHub = RPG leveling map: XP per commit/project  
-- 🤖 AI & automation fanatic  
-- 🔮 Always exploring new frameworks & languages  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&width=700&text=Hacker+Vibes+Activated&fontSize=22&color=0:111827,100:1f2937" />
-</p>
-
----
-
-## 💻 Skills & Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,csharp,react,nextjs,nodejs,vue,git,docker,linux,arduino,go,rust,flutter,solidity,figma&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&width=700&text=Skills+Matrix+Online&fontSize=22&color=0:111827,100:1f2937" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-vibe&layout=compact&theme=dark" />
-</p>
-
----
-
-## 🎯 Level-by-Level Achievements
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shiny&height=120&section=header&text=Level-by-Level+XP&color=0:111827,100:1f2937&fontSize=24" />
-</p>
-
-| Level | Skill / Achievement |
-|-------|-------------------|
-| 🟦 Beginner | HTML, CSS, JS basics |
-| 🟩 Intermediate | Python scripts, C/C++ projects, Arduino |
-| 🟨 Advanced | Node.js, React, Next.js, full-stack apps |
-| 🟧 Expert | AI scripts, automation, cyber dashboards |
-| 🟥 Legendary | Self-hosted projects, neon animations, open-source contributions |
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&width=700&text=Modules+Online&fontSize=22&color=0:111827,100:1f2937" />
-</p>
-
----
-
-## 🌌 XP, Modules & Powers
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shiny&height=120&section=header&text=XP+Tracker&color=0:111827,100:1f2937&fontSize=24" />
-</p>
-
-- ⚡ Module: Terminal Hacker → Live coding, scripts, automation  
-- 💻 Module: Full-Stack Wizard → Frontend + Backend mastery  
-- 🤖 Module: AI & Automation → Bots, ML experiments  
-- 🌌 Module: Cyber Explorer → Neon dashboards, animations, cyberpunk aesthetics  
-- 🎯 XP Tracker → Every commit = +XP, every project = +Level  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&width=700&text=Leveling+Up...&fontSize=22&color=0:111827,100:1f2937" />
-</p>
-
----
-
-## 📸 Visual Dashboard
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=150&section=header&text=Cyber+Visuals&color=0:111827,100:1f2937&fontSize=24" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyber-vibe&theme=dark&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shiny&height=100&section=header&text=Neon+Modules&color=0:111827,100:1f2937&fontSize=22" />
-</p>
-
----
-
-<p align="center">
-  <i>Made by Avi — Level-by-Level, module-by-module, fully cyber ⚡</i>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
